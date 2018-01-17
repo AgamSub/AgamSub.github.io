@@ -1,0 +1,32 @@
+body {
+    font-family: "Hind";
+}
+.gambar {
+    padding-left: 10%;
+}
+.hmm {
+    padding: 0;
+}
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.list li {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.mrg {
+    margin-top: 100px;
+}
+.coding {
+    clear: left;
+}
+
+@media (max-width: 640px) {
+    .center, .center p {
+        text-align: center !important
+    }
+}
