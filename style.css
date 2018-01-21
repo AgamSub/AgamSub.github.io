@@ -29,7 +29,7 @@ body {
     clear: left;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 760px) {
     .center, .center p {
         text-align: center !important
     }
