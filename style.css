@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Hind";
+    src: url('fonts/Hind-Regular.ttf');
+}
 body {
     font-family: "Hind";
 }
@@ -29,4 +33,14 @@ body {
     .center, .center p {
         text-align: center !important
     }
+}
+.garis {
+    float:left;
+    border-bottom:solid 1px red;
+}
+.konten {
+    margin-bottom: 40px;
+}
+a {
+    color: red;
 }
